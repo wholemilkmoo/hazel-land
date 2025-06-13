@@ -1,0 +1,11 @@
+html{
+background-color: #ff9d92;
+}
+img {
+	  border: 5px solid #334cff;
+	  width: 500px;
+	  margin: 10 auto
+	  background-color: #ff9d92;
+  }
+<img src="cute.png">
+</html>
